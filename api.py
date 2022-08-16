@@ -1,7 +1,6 @@
-from crypt import methods
-from email.mime import application
-from urllib import response
 from clientes import *
+from configs import *
+
 
 
 #rota para mostrar todos os clientes
