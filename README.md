@@ -1,3 +1,3 @@
 # Desafio de código
 
-Criado crud de loja utilizando Python, Flask, Alchemy e SQL
+Criado crud de utilizando Python, Flask, Alchemy e SQL
